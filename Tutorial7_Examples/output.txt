@@ -1,0 +1,5 @@
+Writing to file			Separated by tab
+Writing on the next line
+John
+Carl
+Jerry
